@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App6</string>
+    <string name="BT1">Guardar</string>
+    <string name="BT2">Buscar</string>
+    <string name="BT3">Modificar</string>
+    <string name="BT4">Boton4</string>
+</resources>
